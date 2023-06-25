@@ -1,4 +1,4 @@
-- 👋 Hi, I’m liuqingshan
+- 👋 Hi, I’m qsliu
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning Long-read sequencing for rare human genetic diseases
 - 💞️ I’m looking to collaborate on human genetic diseases
