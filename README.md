@@ -2,7 +2,7 @@
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning Long-read sequencing for rare human genetic diseases
 - 💞️ I’m looking to collaborate on human genetic diseases
-- 📫 You can reach me 18637315793@163.com
+- 📫 You can reach me 
 
 <!---
 lqsae/lqsae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
