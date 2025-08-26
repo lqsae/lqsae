@@ -1,3 +1,8 @@
+## Glad to see you here!
+
+**Talking about personal stuff:**
+<img align="right" alt="Trinh Minh Triet" src="coding.gif" width="320px" />
+
 - 👋 Hi, I’m liuqingshan
 - 👀 I’m interested in bioinformatics
 - 🌱 I’m currently learning Long-read sequencing for rare human genetic diseases
