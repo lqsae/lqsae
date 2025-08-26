@@ -1,6 +1,6 @@
 # 👋 你好，我是 liuqingshan
 
-<img align="right" alt="coding" src="/assets/coding.gif" width="320px" />
+<img align="right" alt="coding" src="coding.gif" width="320px" />
 
 生物信息工程师，专注于遗传病诊断、肿瘤分子检测与病原微生物分析；长期从事实验室落地与生产级流水线建设，并在生信算法工程化与高性能优化（Rust 等）方面有深入实践。
 
